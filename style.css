@@ -356,7 +356,7 @@ color: aliceblue;
     display: flex;
     justify-content: space-between;
     padding: 120px;
-    background-color: rgb(44, 30, 102);
+    background-color: rgb(36, 25, 80);
 }
 .ses{
     color: white;
@@ -371,12 +371,13 @@ color: aliceblue;
 #u{  display: flex;
     flex-direction: column;
     align-items: center;
-    background-color:  rgb(44, 30, 102);
+    background-color:  rgb(36, 25, 80);
 }
 
 
 
  #ses img{
+    cursor: pointer;
     width: 20px;
     height: 20px;
  }
