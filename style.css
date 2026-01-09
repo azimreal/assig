@@ -3,7 +3,10 @@ header{
     max-width: 1920px;
 }
 
-
+body{ margin: auto;
+    max-width: 1920px;
+    
+}
     
 
 nav{
@@ -310,105 +313,70 @@ height: 20px;
     max-width: 1920px;
     margin: auto;
   }
-  #last{ 
-   
-    display: flex;
-    text-align:center ;
-    
-width: 1600px;
-height: 384px;
 
-  }
-#bor{
-width: 1600px;
-    padding: 120px;
-   
+
+ .last3{ padding: 80px 40px;
+    text-align: center;
+margin: 120px;
+max-width: 1920px;
     background-color: #F7F6F2;
-}
-  .bau{
-
-    width: 1280px;
-    
-  }
-  .bau h1{color: black;
-
+border-radius: 12px;
+ }
+ #lastt h1{ color: black;
     font-size: 40px;
     font-weight: bold;
-  }
-  .bau p{
+
+
+ }
+
+ #lastt p{
+
     font-size: 16px;
     color: rgb(104, 103, 103);
-  }
-   .bau{
-   
-    font-size: 16px;
-    color: rgb(104, 103, 103);
-   
-   }
-   #btn5{
-  
-    border: none;
-    padding: 12px 16px;
+ }
+ #btnlast{
+    border: green;
     border-radius: 4px;
-    text-align: center;
+    width: 194px;
+    height: 52px;
     background-color: green;
-    color: white;
-    width: 164px;
-    height: 44px;
-    font-size: 16px;
-    font-weight: 200;
-    cursor: pointer;
-}
-   #luu{ margin: 120px;
-   max-width: 1920px;
-   
-    
+color: aliceblue;
+
+ }
+ #btnlast img{vertical-align: middle;
 
 
+ }
 
-   }
-#futor{
-    padding: 120px;
-background-color: rgb(26, 25, 25);
+ #LASTTT{ font-size: 16px;
+    color: rgb(104, 103, 103);
+
+ } 
+#nai{
     display: flex;
     justify-content: space-between;
+    padding: 120px;
+    background-color: rgb(44, 30, 102);
 }
-#futor ul{
-    display: flex;
-    
+.ses{
+    color: white;
+}
 
+#ppp{
+    font-size: 16px;
+    color: white;
     align-items: center;
-    text-decoration: none;
+    padding-bottom: 30px;
 }
-#futor ul p{
-
-    background-color: black;
-    color: aliceblue;
-}
-#ll img{  
-
-    height:20px ;
-    width: 20px ;
-}
-#btn7{
-    background-color: rgb(26, 25, 25);
-}
-.luur{
-
-width: 1600px;
-    height: 348px;
-    
+#u{  display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:  rgb(44, 30, 102);
 }
 
-#ceeee{
-color: aliceblue;
-    text-align: center;
-}
-#last1{ margin-top: 120px;
-    
-    max-width: 1920px;
-    background-color: rgb(26, 25, 25);
-border: 1px solid black;
-    width: 1600px; ;
-    height: 384px; ;
-}
+
+
+ #ses img{
+    width: 20px;
+    height: 20px;
+ }
