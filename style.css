@@ -164,11 +164,11 @@ border-radius: 10px;
     color: rgb(107, 106, 106);
 }
   
-
+    
 #card{
     margin: auto;
     width: 1360px;
-        
+        text-align: center;
 width: 322px;
 height: 300px;
 display: flex;
@@ -185,11 +185,11 @@ box-shadow:salmon;
     }
 
    #card img{ 
-    
+    padding: 10px;
     height: 32px;
     width: 32px;
     border: 60px ;
-    background-color: brown;
+    background-color: rgb(243, 43, 43);
     border-radius: 100px;
    }
    .pr{ font-size: 24px;
